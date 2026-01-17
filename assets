@@ -1,15 +1,1 @@
-assets/
-├─ logo.png
-└─ roster/
-    ├─ placeholder1.png  ← for MJR Sanity
-    ├─ placeholder2.png  ← for MJR Dayno
-    ├─ placeholder3.png  ← for MJR Monsterrzz
-    ├─ placeholder4.png  ← for MJR Kobey!
-    ├─ placeholder5.png  ← for MJR Krankykoalq
-    ├─ placeholder6.png  ← for MJR Flukes
-    ├─ placeholder7.png  ← for MJR Yenewtt
-    ├─ placeholder8.png  ← for MJR Lachy
-    ├─ placeholder9.png  ← for MJR Robbie!
-    ├─ placeholder10.png ← for MJR Lachy (Content)
-    ├─ placeholder11.png ← for MJR Flukes (Content)
-    └─ placeholder12.png ← for MJR Patericko
+roster/.gitkeep
